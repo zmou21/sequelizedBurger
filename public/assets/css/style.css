@@ -1,0 +1,89 @@
+  body{
+    background-color: yellow;
+  }
+
+  li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+
+  .label {
+    font-weight: bold;
+  }
+
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: aqua;
+  }
+
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  .header {
+    text-align: center;
+  }
+
+  /* yummy burgers */
+  .burger-noteat {
+    width: 200px;
+    display: inline;
+  }
+
+  .change-burger{
+    position: relative;
+    left: 33%;
+  }
+
+  .burger-eat {
+    width: 200px;
+    display: inline;
+  }
+
+  .burger{
+    background-color: white;
+    width: 80%;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+    border-radius: 5px;
+  }
+
+  .burger-devoured{
+    background-color: #777;
+    width: 80%;
+    height: 10%;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+    border-radius: 5px;
+    color: darkgrey;
+  }
+
+  .add-burger{
+    position: relative;
+    left: 20%;
+  }
+/* h2 text */
+  #eat{
+    position: relative;
+    left: 18%;
+  }
+
+  #yummy {
+    position: relative;
+    left: 25%;
+  }
+
+  #eaten{
+    margin-top: 2%;
+    position: relative;
+    left: 15%;
+  }
+
+  .create-form{
+    position: relative;
+    left: 7%
+  }
